@@ -1,0 +1,48 @@
+_repo: World-Beyond-Pluto_32820
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Novick, Irving H.
+    alias: Novick
+    birthdate: 1916
+    deathdate: 2004
+    gutenberg_agent_id: '26840'
+    url: http://www.gutenberg.org/2009/agents/26840
+covers:
+- cover_type: archival
+  image_path: 32820-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Marlowe, Stephen
+    aliases:
+    - Wilder, Stephen
+    - Chase, Adam
+    - Thames, C. H.
+    - Ridgway, Jason
+    - Lesser, Milton
+    birthdate: 1928
+    deathdate: 2008
+    gutenberg_agent_id: '32369'
+    url: http://www.gutenberg.org/2009/agents/32369
+    wikipedia: http://en.wikipedia.org/wiki/Stephen_Marlowe
+description: What happens when a hardened criminal on the run for his life gets mixed
+  up with an all-girl symphony traveling between lesser-populated planets in a futile
+  attempt to bring culture to their rowdy inhabitants? Well, to put it mildly, hijinks
+  ensue. Read Stephen Marlowe's thoroughly entertaining World Beyond Pluto to find
+  out the rest.
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2010-06-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32820'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+- !lcsh 'Mayhem, Johnny (Fictitious character) -- Fiction'
+title: World Beyond Pluto
+url: http://www.gutenberg.org/ebooks/32820
